@@ -10,4 +10,4 @@ for (let i=str1; i<=str2; i++){
 
     console.log(result);
 }
-sumOfNumbersNM('-8', `20`);
+sumOfNumbersNM('5', `13`);
